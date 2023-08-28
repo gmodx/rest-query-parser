@@ -1,17 +1,12 @@
-# Rest Query Parser
-
-## Example
-
-```go
-package restfqueryparser_test
+package restqueryparser_test
 
 import (
 	"errors"
 	"net/url"
 	"testing"
 
-	"github.com/stretchr/testify/assert"
 	rqp "github.com/gmodx/rest-query-parser"
+	"github.com/stretchr/testify/assert"
 )
 
 func Test_Parse(t *testing.T) {
@@ -62,4 +57,3 @@ func Test_Parse(t *testing.T) {
 		}
 	}
 }
-```
