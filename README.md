@@ -1,5 +1,10 @@
 # Rest Query Parser
 
+# Query Parser for REST
+
+[![GoDoc](https://godoc.org/github.com/gmodx/rest-query-parser?status.png)](https://godoc.org/github.com/gmodx/rest-query-parser)
+[![Coverage Status](https://coveralls.io/repos/github/gmodx/rest-query-parser/badge.svg?branch=master)](https://coveralls.io/github/gmodx/rest-query-parser?branch=master)
+
 ## Example
 
 ```go
